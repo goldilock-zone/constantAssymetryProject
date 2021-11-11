@@ -18,6 +18,4 @@ class GameSpace:
     def massInteract(self):
         pass
 
-    def __del__(self):
-        pass
 
